@@ -1,1 +1,1 @@
-# adam-skill
+# adam
